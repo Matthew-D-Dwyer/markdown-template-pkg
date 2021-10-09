@@ -73,7 +73,7 @@ library(tidyverse)
 
 ```
 
-# Heading 1 
+# Heading
 
 ## Sub Heading 1
 
