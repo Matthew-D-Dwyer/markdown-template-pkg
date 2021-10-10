@@ -6,7 +6,7 @@ output:
       collapsed: false
   number_sections: true
  
-title: "Insert Title"
+title: ""
 author: "[User-764Q](https://github.com/User-764Q)"
 date: "`r paste0('Last Run: ', format(Sys.time(), '%A %d-%B-%Y'))`"
 params: 
