@@ -63,7 +63,12 @@ custom_accent_blue <- '3D6BFF'
 
 ```{r libraries etc., message = FALSE }
 
+library(gmp)
+library(assertive)
 library(tidyverse)
+library(openxlsx)
+library(lubridate)
+library(data.table)
 
 ```
 
